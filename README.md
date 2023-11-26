@@ -31,7 +31,7 @@ sqrt()
 ```
 
 ## Output:
-![Output](Screenshot.png)
+![Output](outp.png)
 
 
 ## Result:
